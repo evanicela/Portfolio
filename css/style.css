@@ -29,7 +29,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 44px;
+  height: 34px;
 }
 
 .menu-items {
@@ -66,7 +66,7 @@ header {
   left: 50%;
   transform: translate(-50%, -50%);
   color: #07374a;
-  width: 100%;
+  width: 70%;
   text-align: center;
 }
 
@@ -106,13 +106,13 @@ header {
 .about-me .about-heading {
   color: #25b79f;
   font-size: 2rem;
-  font-weight: 600;
+  font-weight: 00;
   text-align: justify;
 
 }
 
 .about-content img {
-  height: 150px;
+  height: 200px;
   width: 150px;
   object-fit: cover;
   border-radius: 50%;
@@ -247,16 +247,7 @@ header {
 .progress-line .javascript::after {
   content: "80%";
 }
-.progress-line .java::after {
-  content: "90%";
-}
-.progress-line .Python::after {
-  content: "90%";
-}
-.progress-line .PHP::after {
-  content: "80%";
-}
-.progress-line .Android::after {
+.progress-line .Java::after {
   content: "80%";
 }
 
@@ -480,7 +471,7 @@ header {
 .contact {
   background: #07374a;
   position: relative;
-  height: 92vh;
+  height: 130vh;
 }
 
 .contact-content {
