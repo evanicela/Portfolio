@@ -247,7 +247,16 @@ header {
 .progress-line .javascript::after {
   content: "80%";
 }
-.progress-line .Java::after {
+.progress-line .java::after {
+  content: "90%";
+}
+.progress-line .Python::after {
+  content: "90%";
+}
+.progress-line .PHP::after {
+  content: "80%";
+}
+.progress-line .Android::after {
   content: "80%";
 }
 
