@@ -100,7 +100,7 @@ header {
 
 .about-me {
   background-color: #07374a;
-  padding: 6rem 0;
+  padding: 2rem 0;
 }
 
 .about-me .about-heading {
@@ -149,7 +149,7 @@ header {
 /* ///.....Skill Bar....../// */
 
 .skills-bar {
-  padding: 25px 30px;
+  padding: 10px 10px;
 }
 
 .skills-bar .bar {
@@ -295,7 +295,7 @@ header {
 
 .portfolio {
   background: #25b79f;
-  padding: 6rem 0;
+  padding: 3rem 0;
 }
 
 .proj-heading h1 {
@@ -471,7 +471,7 @@ header {
 .contact {
   background: #07374a;
   position: relative;
-  height: 130vh;
+  height: 150vh;
 }
 
 .contact-content {
